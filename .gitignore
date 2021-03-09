@@ -1,3 +1,5 @@
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +7,11 @@ __pycache__/
 
 # C extensions
 *.so
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
 
 # Distribution / packaging
 .Python
